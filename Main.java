@@ -4,7 +4,7 @@ import java.lang.String;
 public class Main {
 
     public static void main(String[] args) {
-
+        // This is the new change I am making for Lab 5;
         String hexaNumber;
         int length;
         int space;
